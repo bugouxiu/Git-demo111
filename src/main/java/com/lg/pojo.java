@@ -8,5 +8,6 @@ public class pojo {
     public static void main(String[] args) {
         System.out.println("hello lg");
         System.out.println("hello jmp");
+        System.out.println("hello hot-fix");
     }
 }
